@@ -1,0 +1,5 @@
+jupyter
+jupyterlab-spellchecker
+langchain-community
+ragstack-ai
+matplotlib

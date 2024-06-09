@@ -1,0 +1,240 @@
+question,contexts,ground_truth,evolution_type,metadata,episode_done
+"Here's a question that can be fully answered from the given context:
+
+""Is it likely for Alice to get any helpful response from the mouse about finding the way out of the pool?""
+
+This question is formed using the topic ""Swimming"", which is the key phrase in the context. The answer would involve discussing Alice's attempt to communicate with the mouse and whether she can expect a helpful response.","['“Would it be of any use, now,” thought Alice, “to speak to this mouse?\nEverything is so out-of-the-way down here, that I should think very\nlikely it can talk: at any rate, there’s no harm in trying.” So she\nbegan: “O Mouse, do you know the way out of this pool? I am very tired\nof swimming about here, O Mouse!” (Alice thought this must be the right\nway of speaking to a mouse: she had never done such a thing before, but\nshe remembered having seen in her brother’s Latin Grammar, “A mouse—of']","Alice attempts to speak to the mouse, thinking it might be able to help her find the way out of the pool. She starts by asking if the mouse knows the way out, but since this is the first time she's tried speaking to a mouse, there's no guarantee that the mouse will respond or provide helpful information.",simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+What is the Mouse's reaction when Alice talks about a nurse?
+
+Answer: The Mouse becomes bristling all over, indicating it must be really offended.","['nurse—and she’s such a capital one for catching mice—oh, I beg your\npardon!” cried Alice again, for this time the Mouse was bristling all\nover, and she felt certain it must be really offended. “We won’t talk\nabout her any more if you’d rather not.”']","The Mouse becomes bristling all over, indicating it must be really offended.",simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+""What is the reaction of the baby to the chaos caused by the cook?""
+
+This question can be answered based on the context, which describes the baby as ""howling so much already"" during the scene.","['Alice did not at all like the tone of this remark, and thought it would\nbe as well to introduce some other subject of conversation. While she\nwas trying to fix on one, the cook took the cauldron of soup off the\nfire, and at once set to work throwing everything within her reach at\nthe Duchess and the baby—the fire-irons came first; then followed a\nshower of saucepans, plates, and dishes. The Duchess took no notice of\nthem even when they hit her; and the baby was howling so much already,']",The baby was howling so much already,simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+What happens to Alice as an unusually large saucepan flies by her?
+
+Answer: The saucepan very nearly carries off Alice's precious nose.","['“Oh, _please_ mind what you’re doing!” cried Alice, jumping up and down\nin an agony of terror. “Oh, there goes his _precious_ nose!” as an\nunusually large saucepan flew close by it, and very nearly carried it\noff.\n\n“If everybody minded their own business,” the Duchess said in a hoarse\ngrowl, “the world would go round a deal faster than it does.”']","As an unusually large saucepan flies by her, it very nearly carries off Alice's precious nose.",simple,[{'filename': 'alice-modified.txt'}],True
+"Based on the given context, here's a question that can be fully answered:
+
+Keyphrase: ""Growing large""
+Question: ""What is the character's hope regarding growing large again?","['and put it to her lips. “I know _something_ interesting is sure to\nhappen,” she said to herself, “whenever I eat or drink anything; so\nI’ll just see what this bottle does. I do hope it’ll make me grow large\nagain, for really I’m quite tired of being such a tiny little thing!”']","The character hopes that drinking from the bottle will make her grow large again, as she is 'quite tired of being such a tiny little thing!'",simple,[{'filename': 'alice-modified.txt'}],True
+"Based on the given context, a question that can be fully answered is:
+
+""What is the Hatter's explanation for why tea-things are not washed between uses?""
+
+This question is formed using the keyphrase ""Alice's conversation"" and can be fully answered by referencing the dialogue between Alice and the Hatter in the provided context.","['A bright idea came into Alice’s head. “Is that the reason so many\ntea-things are put out here?” she asked.\n\n“Yes, that’s it,” said the Hatter with a sigh: “it’s always tea-time,\nand we’ve no time to wash the things between whiles.”\n\n“Then you keep moving round, I suppose?” said Alice.\n\n“Exactly so,” said the Hatter: “as the things get used up.”\n\n“But what happens when you come to the beginning again?” Alice ventured\nto ask.']","It’s always tea-time, and we’ve no time to wash the things between whiles.",simple,[{'filename': 'alice-modified.txt'}],True
+"Here is the question that can be fully answered from the given context:
+
+What does the protagonist plan to do with the bottle in order to satisfy her curiosity?","['and put it to her lips. “I know _something_ interesting is sure to\nhappen,” she said to herself, “whenever I eat or drink anything; so\nI’ll just see what this bottle does. I do hope it’ll make me grow large\nagain, for really I’m quite tired of being such a tiny little thing!”']",The protagonist plans to drink or eat something from the bottle in order to satisfy her curiosity and potentially make herself grow large again.,simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+What does Alice try to help with when she says ""Oh, do let me help to undo it!""?
+
+Answer: A knot.","['“You are not attending!” said the Mouse to Alice severely. “What are\nyou thinking of?”\n\n“I beg your pardon,” said Alice very humbly: “you had got to the fifth\nbend, I think?”\n\n“I had _not!_” cried the Mouse, sharply and very angrily.\n\n“A knot!” said Alice, always ready to make herself useful, and looking\nanxiously about her. “Oh, do let me help to undo it!”\n\n“I shall do nothing of the sort,” said the Mouse, getting up and\nwalking away. “You insult me by talking such nonsense!”']",A knot,simple,[{'filename': 'alice-modified.txt'}],True
+"Based on the feedback provided, I would rewrite the question as follows:
+
+What kind of things does the Mouse consider ""vulgar"" and why, specifically in reference to cats?
+
+This revised question clarifies that the context is about the Mouse's perception of vulgarity in relation to cats, which was mentioned earlier in the conversation. This added specificity should make it easier for readers to understand what information the question seeks and provide a more accurate answer.","['“We indeed!” cried the Mouse, who was trembling down to the end of his\ntail. “As if _I_ would talk on such a subject! Our family always\n_hated_ cats: nasty, low, vulgar things! Don’t let me hear the name\nagain!”']","The Mouse considers 'nasty', 'low', and 'vulgar' things when referring to cats. The reason is that the Mouse's family always hated cats, implying that the Mouse shares this sentiment.",simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+What is unique about the croquet-ground in this game?
+
+This question can be answered by referencing the description of the croquet-ground as ""all ridges and furrows"" with live hedgehogs as balls, flamingos as mallets, and soldiers having to double themselves up to make arches.","['“Get to your places!” shouted the Queen in a voice of thunder, and\npeople began running about in all directions, tumbling up against each\nother; however, they got settled down in a minute or two, and the game\nbegan. Alice thought she had never seen such a curious croquet-ground\nin her life; it was all ridges and furrows; the balls were live\nhedgehogs, the mallets live flamingoes, and the soldiers had to double\nthemselves up and to stand on their hands and feet, to make the arches.']","The unique features of the croquet-ground in this game are that it is all ridges and furrows, with live hedgehogs as balls, flamingos as mallets, and soldiers having to double themselves up to make arches.",simple,[{'filename': 'alice-modified.txt'}],True
+"Here is the question that can be fully answered from the given context:
+
+""What does the Queen say in response to the Lizard's statement?","['“Never!” said the Queen furiously, throwing an inkstand at the Lizard\nas she spoke. (The unfortunate little Bill had left off writing on his\nslate with one finger, as he found it made no mark; but he now hastily\nbegan again, using the ink, that was trickling down his face, as long\nas it lasted.)\n\n“Then the words don’t _fit_ you,” said the King, looking round the\ncourt with a smile. There was a dead silence.']","The Queen says, 'Never!' said the Queen furiously, throwing an inkstand at the Lizard as she spoke.",simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+What is the Gryphon's response to Alice's request for information about soles and eels?
+
+Answer: ""Soles and eels, of course,"" the Gryphon replied rather impatiently: ""any shrimp could have told you that.","['“Soles and eels, of course,” the Gryphon replied rather impatiently:\n“any shrimp could have told you that.”\n\n“If I’d been the whiting,” said Alice, whose thoughts were still\nrunning on the song, “I’d have said to the porpoise, ‘Keep back,\nplease: we don’t want _you_ with us!’”\n\n“They were obliged to have him with them,” the Mock Turtle said: “no\nwise fish would go anywhere without a porpoise.”\n\n“Wouldn’t it really?” said Alice in a tone of great surprise.']","The Gryphon's response to Alice's request for information about soles and eels is 'Soles and eels, of course,' the Gryphon replied rather impatiently: 'any shrimp could have told you that.'",simple,[{'filename': 'alice-modified.txt'}],True
+"Based on the feedback, I would suggest rewriting the question to:
+
+""What is used to make blackened shoes shiny?""
+
+This revised question takes into account the specific context of Alice's conversation with the Gryphon, where she mentions that her shoes are done with blacking. By specifying the type of shoes (blackened) and the desired outcome (making them shiny), this question becomes more focused and answerable.","['“The reason is,” said the Gryphon, “that they _would_ go with the\nlobsters to the dance. So they got thrown out to sea. So they had to\nfall a long way. So they got their tails fast in their mouths. So they\ncouldn’t get them out again. That’s all.”\n\n“Thank you,” said Alice, “it’s very interesting. I never knew so much\nabout a whiting before.”\n\n“I can tell you more than that, if you like,” said the Gryphon. “Do you\nknow why it’s called a whiting?”\n\n“I never thought about it,” said Alice. “Why?”', '“I never thought about it,” said Alice. “Why?”\n\n“_It does the boots and shoes_,” the Gryphon replied very solemnly.\n\nAlice was thoroughly puzzled. “Does the boots and shoes!” she repeated\nin a wondering tone.\n\n“Why, what are _your_ shoes done with?” said the Gryphon. “I mean, what\nmakes them so shiny?”\n\nAlice looked down at them, and considered a little before she gave her\nanswer. “They’re done with blacking, I believe.”']",Blacking,simple,"[{'filename': 'alice-modified.txt'}, {'filename': 'alice-modified.txt'}]",True
+"Here is a question that can be fully answered from the given context:
+
+What subjects did the Classics master teach?
+
+Answer: Laughing and Grief.
+
+This question is formed using the keyphrase ""Classics master"" and can be fully answered by referencing the provided context.","['“Well, I can’t show it you myself,” the Mock Turtle said: “I’m too\nstiff. And the Gryphon never learnt it.”\n\n“Hadn’t time,” said the Gryphon: “I went to the Classics master,\nthough. He was an old crab, _he_ was.”\n\n“I never went to him,” the Mock Turtle said with a sigh: “he taught\nLaughing and Grief, they used to say.”\n\n“So he did, so he did,” said the Gryphon, sighing in his turn; and both\ncreatures hid their faces in their paws.']",The Classics master taught Laughing and Grief.,simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+""According to the story, what precautions does Alice take before drinking something?""
+
+This question is formed using the topic ""Alice"", which is the key phrase in the given context. The answer to this question would be: ""She looks first and checks if it's marked 'poison' or not.","['It was all very well to say “Drink me,” but the wise little Alice was\nnot going to do _that_ in a hurry. “No, I’ll look first,” she said,\n“and see whether it’s marked ‘_poison_’ or not”; for she had read\nseveral nice little histories about children who had got burnt, and\neaten up by wild beasts and other unpleasant things, all because they\n_would_ not remember the simple rules their friends had taught them:\nsuch as, that a red-hot poker will burn you if you hold it too long;']","According to the story, Alice takes precautions by looking first and checking if it's marked 'poison' or not before drinking something.",simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+What is the Gryphon's reason for finding something ""fun"" in the Queen's actions?
+
+Answer: The Gryphon finds it fun because ""they never executes nobody, you know."" (according to the Gryphon)","['The Gryphon sat up and rubbed its eyes: then it watched the Queen till\nshe was out of sight: then it chuckled. “What fun!” said the Gryphon,\nhalf to itself, half to Alice.\n\n“What _is_ the fun?” said Alice.\n\n“Why, _she_,” said the Gryphon. “It’s all her fancy, that: they never\nexecutes nobody, you know. Come on!”\n\n“Everybody says ‘come on!’ here,” thought Alice, as she went slowly\nafter it: “I never was so ordered about in all my life, never!”']","The Gryphon finds it fun because 'they never executes nobody, you know.' (according to the Gryphon)",simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+""What was the nature of the dispute between the King, Queen, and Executioner when Alice returned to the Cheshire Cat?""
+
+This question is formed using the keyphrase ""Dispute between King, Queen, and Executioner"" and can be fully answered by describing the arguments presented by each party.","['When she got back to the Cheshire Cat, she was surprised to find quite\na large crowd collected round it: there was a dispute going on between\nthe executioner, the King, and the Queen, who were all talking at once,\nwhile all the rest were quite silent, and looked very uncomfortable.\n\nThe moment Alice appeared, she was appealed to by all three to settle\nthe question, and they repeated their arguments to her, though, as they\nall spoke at once, she found it very hard indeed to make out exactly\nwhat they said.']","The dispute was about a question that Alice had to settle, with the executioner, the King, and the Queen all talking at once. The King, Queen, and Executioner were repeating their arguments to her, but as they all spoke at once, it was hard for Alice to make out exactly what they said.",simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+What does the Mouse want to do before telling Alice its history?
+
+Answer: The Mouse wants to get to the shore.","['So she called softly after it, “Mouse dear! Do come back again, and we\nwon’t talk about cats or dogs either, if you don’t like them!” When the\nMouse heard this, it turned round and swam slowly back to her: its face\nwas quite pale (with passion, Alice thought), and it said in a low\ntrembling voice, “Let us get to the shore, and then I’ll tell you my\nhistory, and you’ll understand why it is I hate cats and dogs.”']",The Mouse wants to get to the shore.,simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+What is the Gryphon's response when he forgets the words of the song?","['“Oh, _you_ sing,” said the Gryphon. “I’ve forgotten the words.”\n\nSo they began solemnly dancing round and round Alice, every now and\nthen treading on her toes when they passed too close, and waving their\nforepaws to mark the time, while the Mock Turtle sang this, very slowly\nand sadly:—']","_you_ sing,” said the Gryphon. “I’ve forgotten the words.”",simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+What does the Mock Turtle ask Alice to do at the beginning of their conversation?
+
+Answer: The Mock Turtle asks Alice to ""Explain all that"" (implying her adventures), but Alice is hesitant and suggests sharing her adventures first.","['“I could tell you my adventures—beginning from this morning,” said\nAlice a little timidly: “but it’s no use going back to yesterday,\nbecause I was a different person then.”\n\n“Explain all that,” said the Mock Turtle.\n\n“No, no! The adventures first,” said the Gryphon in an impatient tone:\n“explanations take such a dreadful time.”']","The Mock Turtle asks Alice to 'Explain all that' (implying her adventures), but Alice is hesitant and suggests sharing her adventures first.",simple,[{'filename': 'alice-modified.txt'}],True
+"Here's the question that can be fully answered from the given context:
+
+""What does Alice say is important to her?""
+
+This question can be fully answered by referencing the quote ""It matters a good deal to _me_” said Alice hastily;”.","['“It matters a good deal to _me_,” said Alice hastily; “but I’m not\nlooking for eggs, as it happens; and if I was, I shouldn’t want\n_yours_: I don’t like them raw.”']",What is important to Alice is that it matters a good deal to me.,simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+What did Edwin and Morcar, the earls of Mercia and Northumbria, declare for?
+
+Answer: They declared for him (referring to someone not specified in this passage).","['“Ugh!” said the Lory, with a shiver.\n\n“I beg your pardon!” said the Mouse, frowning, but very politely: “Did\nyou speak?”\n\n“Not I!” said the Lory hastily.\n\n“I thought you did,” said the Mouse. “—I proceed. ‘Edwin and Morcar,\nthe earls of Mercia and Northumbria, declared for him: and even\nStigand, the patriotic archbishop of Canterbury, found it advisable—’”\n\n“Found _what_?” said the Duck.\n\n“Found _it_,” the Mouse replied rather crossly: “of course you know\nwhat ‘it’ means.”']","Edwin and Morcar, the earls of Mercia and Northumbria, declared for him.",simple,[{'filename': 'alice-modified.txt'}],True
+"Based on the given context, I would form a question that can be fully answered from the provided text using the keyphrase ""Circumstances"". Here's my attempt:
+
+context: The great question certainly was, what? Alice looked all round her at
+the flowers and the blades of grass, but she did not see anything that
+looked like the right thing to eat or drink under the circumstances. There was a large mushroom growing near her, about the same height as
+herself; and when she had looked under it, and on both sides of it, and
+behind it, it occurred to her that she might as well look and see what
+was on the top of it.
+keyphrase: Circumstances
+question: What did Alice not see anything like the right thing to eat or drink under?
+
+This question can be fully answered from the provided context, which describes Alice's search for food or drink in a specific situation (the circumstances).","['The great question certainly was, what? Alice looked all round her at\nthe flowers and the blades of grass, but she did not see anything that\nlooked like the right thing to eat or drink under the circumstances.\nThere was a large mushroom growing near her, about the same height as\nherself; and when she had looked under it, and on both sides of it, and\nbehind it, it occurred to her that she might as well look and see what\nwas on the top of it.']",the right thing to eat or drink,simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+What advice does the Caterpillar give to Alice?","['“Why?” said the Caterpillar.\n\nHere was another puzzling question; and as Alice could not think of any\ngood reason, and as the Caterpillar seemed to be in a _very_ unpleasant\nstate of mind, she turned away.\n\n“Come back!” the Caterpillar called after her. “I’ve something\nimportant to say!”\n\nThis sounded promising, certainly: Alice turned and came back again.\n\n“Keep your temper,” said the Caterpillar.\n\n“Is that all?” said Alice, swallowing down her anger as well as she\ncould.\n\n“No,” said the Caterpillar.']",The Caterpillar advises Alice to 'Keep your temper'.,simple,[{'filename': 'alice-modified.txt'}],True
+"Here's the question:
+
+What does Alice say is allowed when it comes to looking at the King?
+
+This question can be fully answered based on the given context, which features a conversation between Alice and the King. The key phrase ""Alice"" is used to form the question, which asks about Alice's statement regarding the King.","['“It’s a friend of mine—a Cheshire Cat,” said Alice: “allow me to\nintroduce it.”\n\n“I don’t like the look of it at all,” said the King: “however, it may\nkiss my hand if it likes.”\n\n“I’d rather not,” the Cat remarked.\n\n“Don’t be impertinent,” said the King, “and don’t look at me like\nthat!” He got behind Alice as he spoke.\n\n“A cat may look at a king,” said Alice. “I’ve read that in some book,\nbut I don’t remember where.”']",A cat may look at a king,simple,[{'filename': 'alice-modified.txt'}],True
+"Based on the given context and keyphrase ""Meaning"", I would form a question that can be fully answered from the context as follows:
+
+What does Alice believe is lacking in the King's statement?
+
+This question can be fully answered by referencing the conversation between Alice and the King, where Alice explicitly states that she doesn't believe there's an atom of meaning in the King's evidence.","['“That’s the most important piece of evidence we’ve heard yet,” said the\nKing, rubbing his hands; “so now let the jury—”\n\n“If any one of them can explain it,” said Alice, (she had grown so\nlarge in the last few minutes that she wasn’t a bit afraid of\ninterrupting him,) “I’ll give him sixpence. _I_ don’t believe there’s\nan atom of meaning in it.”\n\nThe jury all wrote down on their slates, “_She_ doesn’t believe there’s\nan atom of meaning in it,” but none of them attempted to explain the\npaper.']",Alice believes that there is a lack of meaning in the King's statement.,simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+What does the narrator think about the creature's potential appearance if it had grown up?
+
+This question is formed using the keyphrase ""Magical transformation"" and can be fully answered by referencing the context, where the narrator says ""If it had grown up, it would have made a dreadfully ugly child: but it makes rather a handsome pig, I think.","['So she set the little creature down, and felt quite relieved to see it\ntrot away quietly into the wood. “If it had grown up,” she said to\nherself, “it would have made a dreadfully ugly child: but it makes\nrather a handsome pig, I think.” And she began thinking over other\nchildren she knew, who might do very well as pigs, and was just saying\nto herself, “if one only knew the right way to change them—” when she\nwas a little startled by seeing the Cheshire Cat sitting on a bough of\na tree a few yards off.']","The narrator thinks that if the creature had grown up, it would have made a 'dreadfully ugly child'",simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+What kind of education did the Mock Turtle receive?","['“Yes, we went to school in the sea, though you mayn’t believe it—”\n\n“I never said I didn’t!” interrupted Alice.\n\n“You did,” said the Mock Turtle.\n\n“Hold your tongue!” added the Gryphon, before Alice could speak again.\nThe Mock Turtle went on.\n\n“We had the best of educations—in fact, we went to school every day—”\n\n“_I’ve_ been to a day-school, too,” said Alice; “you needn’t be so\nproud as all that.”\n\n“With extras?” asked the Mock Turtle a little anxiously.\n\n“Yes,” said Alice, “we learned French and music.”']",The Mock Turtle received an education in school every day.,simple,[{'filename': 'alice-modified.txt'}],True
+"Based on the given context, I can generate a question that can be fully answered from the text. Here's my attempt:
+
+keyphrase: ""Question""
+question: ""What was Alice trying to figure out about the mushroom?","['“One side of _what?_ The other side of _what?_” thought Alice to\nherself.\n\n“Of the mushroom,” said the Caterpillar, just as if she had asked it\naloud; and in another moment it was out of sight.\n\nAlice remained looking thoughtfully at the mushroom for a minute,\ntrying to make out which were the two sides of it; and as it was\nperfectly round, she found this a very difficult question. However, at\nlast she stretched her arms round it as far as they would go, and broke\noff a bit of the edge with each hand.']",Alice was trying to figure out which were the two sides of the mushroom.,simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+What happens to Alice when she swallows one of the cakes?
+
+This question is formed using the keyphrase ""Lizard Bill"" and can be fully answered by referencing the context provided.","['So she swallowed one of the cakes, and was delighted to find that she\nbegan shrinking directly. As soon as she was small enough to get\nthrough the door, she ran out of the house, and found quite a crowd of\nlittle animals and birds waiting outside. The poor little Lizard, Bill,\nwas in the middle, being held up by two guinea-pigs, who were giving it\nsomething out of a bottle. They all made a rush at Alice the moment she\nappeared; but she ran off as hard as she could, and soon found herself']",She began shrinking directly after swallowing one of the cakes.,simple,[{'filename': 'alice-modified.txt'}],True
+"Here is a question that can be fully answered from the given context:
+
+Keyphrase: ""King's cross-examination""
+Question: ""What does the King ask during his cross-examination of the witness?","['The King looked anxiously at the White Rabbit, who said in a low voice,\n“Your Majesty must cross-examine _this_ witness.”\n\n“Well, if I must, I must,” the King said, with a melancholy air, and,\nafter folding his arms and frowning at the cook till his eyes were\nnearly out of sight, he said in a deep voice, “What are tarts made of?”\n\n“Pepper, mostly,” said the cook.\n\n“Treacle,” said a sleepy voice behind her.']",The King asks 'What are tarts made of?' during his cross-examination of the witness.,simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+What was Alice asked to do when she appeared on the scene?","['When she got back to the Cheshire Cat, she was surprised to find quite\na large crowd collected round it: there was a dispute going on between\nthe executioner, the King, and the Queen, who were all talking at once,\nwhile all the rest were quite silent, and looked very uncomfortable.\n\nThe moment Alice appeared, she was appealed to by all three to settle\nthe question, and they repeated their arguments to her, though, as they\nall spoke at once, she found it very hard indeed to make out exactly\nwhat they said.']","Alice was appealed to by all three (the executioner, the King, and the Queen) to settle the question.",simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+""According to Alice, what would happen if someone were to turn into a pig?""
+
+This question is formed using the topic ""Tears"", which is the keyphrase provided in the context. The answer to this question can be found directly in the text: ""If you're going to turn into a pig, my dear...","['No, there were no tears. “If you’re going to turn into a pig, my dear,”\nsaid Alice, seriously, “I’ll have nothing more to do with you. Mind\nnow!” The poor little thing sobbed again (or grunted, it was impossible\nto say which), and they went on for some while in silence.']","According to Alice, if someone were to turn into a pig, she would have nothing more to do with them. She says, 'If you’re going to turn into a pig, my dear,’ said Alice, seriously, ‘I’ll have nothing more to do with you. Mind now!’",simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+What is Alice's reaction when the Mock Turtle starts explaining something?
+
+Answer: Alice is only too glad to leave off, indicating that she finds the explanation confusing and wants to move on.","['“What _is_ the use of repeating all that stuff,” the Mock Turtle\ninterrupted, “if you don’t explain it as you go on? It’s by far the\nmost confusing thing _I_ ever heard!”\n\n“Yes, I think you’d better leave off,” said the Gryphon: and Alice was\nonly too glad to do so.\n\n“Shall we try another figure of the Lobster Quadrille?” the Gryphon\nwent on. “Or would you like the Mock Turtle to sing you a song?”']","Alice is only too glad to do so, indicating that she finds the explanation confusing and wants to move on.",simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+What do the soldiers say in response to the Queen's question about playing croquet?
+
+Answer: The soldiers are silent and look at Alice, indicating that they cannot play croquet.","['“You shan’t be beheaded!” said Alice, and she put them into a large\nflower-pot that stood near. The three soldiers wandered about for a\nminute or two, looking for them, and then quietly marched off after the\nothers.\n\n“Are their heads off?” shouted the Queen.\n\n“Their heads are gone, if it please your Majesty!” the soldiers shouted\nin reply.\n\n“That’s right!” shouted the Queen. “Can you play croquet?”\n\nThe soldiers were silent, and looked at Alice, as the question was\nevidently meant for her.']","The soldiers were silent, and looked at Alice, as the question was evidently meant for her.",simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+""What was unusual about the education of the Mock Turtle and his friends?","['“We called him Tortoise because he taught us,” said the Mock Turtle\nangrily: “really you are very dull!”\n\n“You ought to be ashamed of yourself for asking such a simple\nquestion,” added the Gryphon; and then they both sat silent and looked\nat poor Alice, who felt ready to sink into the earth. At last the\nGryphon said to the Mock Turtle, “Drive on, old fellow! Don’t be all\nday about it!” and he went on in these words:\n\n“Yes, we went to school in the sea, though you mayn’t believe it—”']","The Mock Turtle and his friends went to school in the sea, which is an unusual place for education.",simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+What was unusual about the way the words came out when she spoke?","['to repeat it, but her voice sounded hoarse and strange, and the words\ndid not come the same as they used to do:—']",The words did not come the same as they used to do; her voice sounded hoarse and strange.,simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+What is the Pigeon trying to do or find in its conversation with Alice?
+
+This question can be fully answered by referencing the context, which describes the Pigeon's attempts to please ""those serpents"" and its various failed efforts (trying roots of trees, banks, and hedges).","['“Serpent!” screamed the Pigeon.\n\n“I’m _not_ a serpent!” said Alice indignantly. “Let me alone!”\n\n“Serpent, I say again!” repeated the Pigeon, but in a more subdued\ntone, and added with a kind of sob, “I’ve tried every way, and nothing\nseems to suit them!”\n\n“I haven’t the least idea what you’re talking about,” said Alice.\n\n“I’ve tried the roots of trees, and I’ve tried banks, and I’ve tried\nhedges,” the Pigeon went on, without attending to her; “but those\nserpents! There’s no pleasing them!”']","The Pigeon is trying to find something that pleases 'those serpents', as it has tried every way but nothing seems to suit them. It's been attempting to please them by trying different things like roots of trees, banks, and hedges.",simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+What is Alice's initial impression of the baby's appearance?
+
+This question can be answered by referring to the context, which describes the baby's ""very turn-up nose"" and ""extremely small eyes"", leading Alice to express her dislike for its appearance.","['The baby grunted again, and Alice looked very anxiously into its face\nto see what was the matter with it. There could be no doubt that it had\na _very_ turn-up nose, much more like a snout than a real nose; also\nits eyes were getting extremely small for a baby: altogether Alice did\nnot like the look of the thing at all. “But perhaps it was only\nsobbing,” she thought, and looked into its eyes again, to see if there\nwere any tears.']",Alice does not like the look of the thing at all due to the baby's 'very turn-up nose' and 'extremely small eyes',simple,[{'filename': 'alice-modified.txt'}],True
+"Based on the given context:
+
+""Hiss made her draw back in a hurry: a large pigeon had flown into her face, and was beating her violently with its wings.""
+
+Keyphrase: ""Face""
+
+Question: ""What unexpected event occurred to Hiss's face?","['hiss made her draw back in a hurry: a large pigeon had flown into her\nface, and was beating her violently with its wings.']",A large pigeon flew into Hiss's face and started beating her violently with its wings.,simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+What is Alice's concern about the Lory?
+
+Answer: Alice wishes she had their Dinah to fetch the Lory back, as it has gone out of sight.","['“What a pity it wouldn’t stay!” sighed the Lory, as soon as it was\nquite out of sight; and an old Crab took the opportunity of saying to\nher daughter “Ah, my dear! Let this be a lesson to you never to lose\n_your_ temper!” “Hold your tongue, Ma!” said the young Crab, a little\nsnappishly. “You’re enough to try the patience of an oyster!”\n\n“I wish I had our Dinah here, I know I do!” said Alice aloud,\naddressing nobody in particular. “She’d soon fetch it back!”']","Alice wishes she had their Dinah to fetch the Lory back, as it has gone out of sight.",simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+What is Alice's plan for using the ""Eat Me"" cake?
+
+This question can be fully answered by referencing the text where Alice says, ""Well, I'll eat it... so either way I'll get into the garden..."" and explaining her intention to use the cake to grow larger or smaller in order to reach the key or creep under the door.","['Soon her eye fell on a little glass box that was lying under the table:\nshe opened it, and found in it a very small cake, on which the words\n“EAT ME” were beautifully marked in currants. “Well, I’ll eat it,” said\nAlice, “and if it makes me grow larger, I can reach the key; and if it\nmakes me grow smaller, I can creep under the door; so either way I’ll\nget into the garden, and I don’t care which happens!”']","Alice's plan for using the 'Eat Me' cake is to eat it, which will either make her grow larger so she can reach the key or make her grow smaller so she can creep under the door. She intends to use the cake to get into the garden.",simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+""Who interrupts the conversation to ask about the games?""
+
+Answer: The Gryphon.","['“That’s enough about lessons,” the Gryphon interrupted in a very\ndecided tone: “tell her something about the games now.”\n\n\n\n\nCHAPTER X.\nThe Lobster Quadrille']",The Gryphon interrupts the conversation to ask about the games.,simple,[{'filename': 'alice-modified.txt'}],True
+"Based on the feedback provided, I would rewrite the question as follows:
+
+What is the Duchess's attitude towards figures, as revealed in her conversation with Alice about chopping off someone's head?
+
+This rewritten question includes a brief description of the conversation (specifically mentioning Alice and the context of chopping off someone's head) to provide clarity and background information for readers. This should make it easier for them to understand the context and relevance of the figures in question, allowing them to answer the question more effectively.","['“Talking of axes,” said the Duchess, “chop off her head!”\n\nAlice glanced rather anxiously at the cook, to see if she meant to take\nthe hint; but the cook was busily stirring the soup, and seemed not to\nbe listening, so she went on again: “Twenty-four hours, I _think_; or\nis it twelve? I—”', '“Oh, don’t bother _me_,” said the Duchess; “I never could abide\nfigures!” And with that she began nursing her child again, singing a\nsort of lullaby to it as she did so, and giving it a violent shake at\nthe end of every line:\n\n“Speak roughly to your little boy,\n    And beat him when he sneezes:\nHe only does it to annoy,\n    Because he knows it teases.”\n\n\nCHORUS.\n(In which the cook and the baby joined):\n\n\n“Wow! wow! wow!”']",The Duchess never could abide figures.,simple,"[{'filename': 'alice-modified.txt'}, {'filename': 'alice-modified.txt'}]",True
+"Here's a question that can be fully answered from the given context:
+
+keyphrase: ""Mock Turtle""
+question: ""What did Alice ask the Mock Turtle after being discouraged by the Gryphon?","['“Well, then,” the Gryphon went on, “if you don’t know what to uglify\nis, you _are_ a simpleton.”\n\nAlice did not feel encouraged to ask any more questions about it, so\nshe turned to the Mock Turtle, and said “What else had you to learn?”']","Alice asked the Mock Turtle, 'What else had you to learn?' after being discouraged by the Gryphon.",simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered based on the given context:
+
+What is Alice trying to understand about the poem being recited by the King?
+
+This question can be fully answered because it asks about Alice's actions and thoughts in the context, which are explicitly stated in the passage.","['“All right, so far,” said the King, and he went on muttering over the\nverses to himself: “‘_We know it to be true_—’ that’s the jury, of\ncourse—‘_I gave her one, they gave him two_—’ why, that must be what he\ndid with the tarts, you know—”\n\n“But, it goes on ‘_they all returned from him to you_,’” said Alice.']","Alice is trying to understand what the King means by the poem he is reciting, specifically asking for clarification on certain lines.",simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+What is the Gryphon's priority when it comes to hearing Alice's story?
+
+Answer: The Gryphon wants to hear Alice's adventures first, and then explanations can follow.","['“I could tell you my adventures—beginning from this morning,” said\nAlice a little timidly: “but it’s no use going back to yesterday,\nbecause I was a different person then.”\n\n“Explain all that,” said the Mock Turtle.\n\n“No, no! The adventures first,” said the Gryphon in an impatient tone:\n“explanations take such a dreadful time.”']","The Gryphon's priority when it comes to hearing Alice's story is to hear her adventures first, followed by explanations.",simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+What does the Mouse ask Alice to do before telling her its history?
+
+Answer: The Mouse asks Alice to get to the shore.","['So she called softly after it, “Mouse dear! Do come back again, and we\nwon’t talk about cats or dogs either, if you don’t like them!” When the\nMouse heard this, it turned round and swam slowly back to her: its face\nwas quite pale (with passion, Alice thought), and it said in a low\ntrembling voice, “Let us get to the shore, and then I’ll tell you my\nhistory, and you’ll understand why it is I hate cats and dogs.”']",The Mouse asks Alice to get to the shore.,simple,[{'filename': 'alice-modified.txt'}],True
+"Here's a question that can be fully answered from the given context:
+
+What happens to the soup in this scene?
+
+This question is formed using the topic ""Soup"" and can be fully answered by describing the events that occur with the cauldron of soup, specifically how the cook takes it off the fire and then throws everything within her reach at the Duchess and the baby.","['Alice did not at all like the tone of this remark, and thought it would\nbe as well to introduce some other subject of conversation. While she\nwas trying to fix on one, the cook took the cauldron of soup off the\nfire, and at once set to work throwing everything within her reach at\nthe Duchess and the baby—the fire-irons came first; then followed a\nshower of saucepans, plates, and dishes. The Duchess took no notice of\nthem even when they hit her; and the baby was howling so much already,']","The cook takes the cauldron of soup off the fire and then throws everything within her reach at the Duchess and the baby, including the fire-irons, saucepans, plates, and dishes.",simple,[{'filename': 'alice-modified.txt'}],True
+"Based on the given context and keyphrase ""Sweet-tempered"", a question that can be fully answered from the context is:
+
+""What is the speaker's wish regarding their sweet-tempered nature?","['sweet-tempered. I only wish people knew _that_: then they wouldn’t be\nso stingy about it, you know—”']",The speaker wishes people knew about their sweet-tempered nature so they wouldn't be stingy about it.,simple,[{'filename': 'alice-modified.txt'}],True
